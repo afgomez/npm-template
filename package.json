@@ -1,0 +1,10 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "0.0.1",
+  "description": "PROJECT_DESCRIPTION",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
+  "author": "AUTHOR_NAME",
+  "license": "MIT"
+}
